@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded background circle -->
+  <circle cx="32" cy="32" r="32" fill="#E6F7EF"/>
+
+  <!-- Checklist icon with rounded corners -->
+  <rect x="16" y="14" width="32" height="36" rx="6" ry="6" fill="white" stroke="#1DB954" stroke-width="2"/>
+
+  <!-- Checklist lines -->
+  <line x1="22" y1="24" x2="42" y2="24" stroke="#1DB954" stroke-width="2" stroke-linecap="round"/>
+  <line x1="22" y1="32" x2="42" y2="32" stroke="#1DB954" stroke-width="2" stroke-linecap="round"/>
+  <line x1="22" y1="40" x2="42" y2="40" stroke="#1DB954" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Checkmark box -->
+  <rect x="22" y="46" width="8" height="8" rx="2" ry="2" fill="#1DB954"/>
+  <polyline points="23,50 25,53 29,48" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
